@@ -1,3 +1,5 @@
+package ProblemSolving;
+
 import java.util.Scanner;
 public class JaggedArrayPractice {
     public static void main(String[] args) {
