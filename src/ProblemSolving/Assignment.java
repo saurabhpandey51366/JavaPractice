@@ -1,3 +1,5 @@
+package ProblemSolving;
+
 class Animal{
     void breathing(){
         System.out.println("Animals Breathe");

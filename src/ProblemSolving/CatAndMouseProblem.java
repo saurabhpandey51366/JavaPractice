@@ -1,3 +1,5 @@
+package ProblemSolving;
+
 import java.util.*;
 
 public class CatAndMouseProblem {

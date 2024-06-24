@@ -1,3 +1,4 @@
+package ProblemSolving;
 class Heart { //Composition Class
     private double weight; //Instance Variables using Encapsulation
     private int bpm; //Instance Variables using Encapsulation
