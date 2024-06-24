@@ -1,3 +1,4 @@
+package ProblemSolving;
 class Vehicle{
     String brand = "Tata";
     String model = "Nexon";
