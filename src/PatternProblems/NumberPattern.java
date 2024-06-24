@@ -1,4 +1,4 @@
-package ProblemSolving;
+package PatternProblems;
 
 
 public class NumberPattern {
